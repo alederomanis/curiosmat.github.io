@@ -3,3 +3,4 @@ description: Piccole curiosità dal mondo della matematica
 remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-remote-theme
+cover-img: /assets/img/homepage.jpg

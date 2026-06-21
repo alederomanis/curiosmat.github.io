@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Curiosità Matematiche
 ---
-
-# Homepage
 
 Piccole curiosità dal mondo della matematica.
 

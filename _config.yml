@@ -4,6 +4,6 @@ remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-remote-theme
 navbar-links:
-  Home: ""
+  Homepage: ""
   Articoli: "posts"
-  Chi sono: "about"
+  Su di me...: "about"

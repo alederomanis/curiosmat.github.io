@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Il mio blog
+# Curiosità Matematiche
 
-Benvenuto nel mio sito!
+Piccole curiosità dal mondo della matematica.

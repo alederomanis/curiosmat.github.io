@@ -1,3 +1,5 @@
 title: Curiosità matematiche
 description: Piccole curiosità dal mondo della matematica
-remote_theme: cotes2020/jekyll-theme-chirpy
+remote_theme: daattali/beautiful-jekyll@6.0.1
+plugins:
+  - jekyll-remote-theme

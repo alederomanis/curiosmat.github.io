@@ -1,8 +1,9 @@
 title: Curiosità matematiche
 description: Piccole curiosità dal mondo della matematica
-baseurl: "/curiosmat.github.io"
-url: "https://alederomanis.github.io"
 remote_theme: daattali/beautiful-jekyll@6.0.1
 plugins:
   - jekyll-remote-theme
-cover-img: /assets/img/homepage.jpg
+navbar-links:
+  Home: ""
+  Articoli: "posts"
+  Chi sono: "about"

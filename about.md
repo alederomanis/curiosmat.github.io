@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Su di me..
+title: Su di me...
 ---
 
 Mi chiamo Alessandro e sono uno studente universitario di Matematica.

@@ -6,6 +6,5 @@ plugins:
   - jekyll-remote-theme
 navbar-links:
   Homepage: ""
-  Articoli: "blog"
   Su di me...: "about"
 post_search: true

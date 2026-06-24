@@ -8,3 +8,4 @@ navbar-links:
   Homepage: ""
   Articoli: "posts"
   Su di me...: "about"
+post_search: true

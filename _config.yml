@@ -1,6 +1,7 @@
 title: Curiosità Matematiche
 description: Piccole curiosità dal mondo della matematica
 remote_theme: daattali/beautiful-jekyll@6.0.1
+mathjax: true
 plugins:
   - jekyll-remote-theme
 navbar-links:

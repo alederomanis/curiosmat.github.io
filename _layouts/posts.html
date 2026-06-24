@@ -1,0 +1,16 @@
+---
+---
+
+{% include header.html %}
+
+<article class="post-preview">
+  <h1>{{ page.title }}</h1>
+
+  {% if page.mathjax %}
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+  {% endif %}
+
+  {{ content }}
+</article>
+
+{% include footer.html %}

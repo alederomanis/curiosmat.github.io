@@ -3,7 +3,7 @@ layout: post
 title: "Dall'arte alla crittografia: un assaggio di geometria proiettiva"
 excerpt: "Una teoria matematica nata per disegnare in prospettiva che oggi trova applicazione anche tra le moderne tecnologie."
 ---
-Questo articolo sarà particolarmente breve in quanto non ritengo utile fornire nozioni matematiche sull'argomento in quanto, data la loro astrattezza, sarebbero comprensibili
+Questo articolo sarà particolarmente breve poiché non ritengo utile fornire nozioni matematiche sull'argomento in quanto, data la loro astrattezza, sarebbero comprensibili
 solo da _addetti ai lavori_ e non rivestirebbero quindi un carattere divulgativo.
 
 Se parlate con un matematico questo senz'ombra di dubbio sosterrà che _"La matematica è bella"_ e che in un certo senso _"La matematica è una forma d'arte"_. Un grande matematico

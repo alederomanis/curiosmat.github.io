@@ -30,7 +30,7 @@ un oggetto di 2 dimensioni, cioè un piano. Stiamo quindi proiettando i punti de
 _"uguale"_ a ciò che vediamo nella realtà.
 ![Proiezione di punti su un piano proiettivo]({{site.baseurl}}/assets/img/proiezione.gif)
 
-Questa costruzione geometrica può essere anche vista come una generalizzazione della geometria a cui siamo abituati, come la _classica_ geometria euclidea: possiamo infatti
+Questa costruzione geometrica può essere anche vista come una generalizzazione della geometria a cui siamo abituati, cioè la _classica_ geometria euclidea: possiamo infatti
 interpretare un piano proiettivo come un piano euclideo con l'aggiunta di un _"punto all'infinito"_ (notare l'analogia con il _punto di fuga_).
 
 In sintesi, con lo scopo di dipingere in prospettiva ha avuto inizio lo sviluppo di una teoria matematica piuttosto complessa, che ancora oggi trova numerose applicazioni.

@@ -12,7 +12,7 @@ Non è neanche difficile sentire affermare che c'è un'armonia matematica ovunqu
 questo legame non risulterà poi così evidente. In questo articolo introdurremo quindi un legame molto interessante tra l'arte e la matematica.
 
 Siamo nel Rinascimento e degli artisti cercano di sviluppare una tecnica per _dipingere in prospettiva_. Il loro obiettivo è _rappresentare sul foglio lo spazio reale così come noi
-lo vediamo_. Il primo a scoprire le regole della rappresentazione fu Filippo Brunelleschi.
+lo vediamo_. Il primo a scoprire le regole della rappresentazione prospettica fu Filippo Brunelleschi.
 ![La città ideale]({{site.baseurl}}/assets/img/prospettiva.jpeg)
 
 Pensate di guardare due rette parallele nella vita quotidiana, ad esempio i binari di un treno: vi sembrerà che allontanandosi questi tendano ad incontrarsi in un punto. È

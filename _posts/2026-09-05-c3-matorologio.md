@@ -54,4 +54,4 @@ In ogni caso, anche questo vecchio sistema (che misurava 24 ore con 6 numeri anz
 si basa sullo stesso sistema di congruenze numeriche. Il campo anziché essere a caratteristica 12 è a caratteristica 6.
 Tali orologi sono ancora visibili. In foto l'orologio a 6 ore del Quirinale e l'orologio a 6 ore della Parrocchia S.M. Assunta di Filettino.
 ![Orologio del Quirinale]({{site.baseurl}}/assets/img/quirinale.jpg)
-![Orologio di Filettino]({{site.baseurl}}/assets/img/filettino.jpg)
+![Orologio di Filettino]({{site.baseurl}}/assets/img/filettino.png)

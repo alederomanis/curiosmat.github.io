@@ -48,7 +48,7 @@ La misura del tempo si basa quindi su questo sistema di congruenze numeriche che
 Il sistema orario attualmente in uso è noto come ora Napoleonica.
 Prima dell’arrivo di Napoleone in Italia il sistema orario adottato era diverso da quello attuale.
 Si usava infatti l’ora italica. L’orologio anziché riportare 12 ore ne riportava solamente 6 (di conseguenza anziché due giri
-ne compieva quattro in un giorno). Le 24 ore non corrispondevano alle nostre attuali 24 ore in quanto questo sistema
+ne compiva quattro in un giorno). Le 24 ore non corrispondevano alle nostre attuali 24 ore in quanto questo sistema
 era molto legato alla vita agro-silvo-pastorale.
 In ogni caso, anche questo vecchio sistema (che misurava 24 ore con 6 numeri anziché con 12)
 si basa sullo stesso sistema di congruenze numeriche. Il campo anziché essere a caratteristica 12 è a caratteristica 6.
